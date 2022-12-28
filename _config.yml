@@ -28,7 +28,7 @@ twitter_username: seanksmith
 github_username:  seanksmith
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
 plugins:
